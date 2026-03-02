@@ -41,8 +41,3 @@ Atualmente estou estudando Java no backend e tecnologias web como HTML e CSS no 
 <img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 <br/><br/>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=WesleySantosx&show_icons=false&hide_border=true&bg_color=transparent"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleySantosx&layout=compact&hide_border=true&bg_color=transparent"/>
-</div>
