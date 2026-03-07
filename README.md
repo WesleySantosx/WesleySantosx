@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=e6edf3&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+profile...;%3E+Software+Engineering+Student;%3E+Java+Backend+Developer+in+progress;%3E+Building+real+world+skills...;%3E+Welcome+to+my+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=e6edf3&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+profile...;%3E+Software+Engineering+Student;%3E+Welcome+to+my+GitHub" />
 </div>
 
 <br/>
@@ -10,7 +10,7 @@
 
 <p>
 Sou estudante de Engenharia de Software, com foco em desenvolvimento Full Stack.  
-Atualmente estou estudando Java no backend e tecnologias web como HTML e CSS no frontend, desenvolvendo projetos práticos e evoluindo minhas habilidades como desenvolvedor.
+Atualmente estou estudando Java no backend e tecnologias web como HTML e CSS no frontend.
 </p>
 
 
