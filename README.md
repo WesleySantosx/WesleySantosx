@@ -9,8 +9,7 @@
 <br>
 
 <p>
-Sou estudante de Engenharia de Software, com foco em desenvolvimento Full Stack.  
-Atualmente estou estudando Java no backend e tecnologias web como HTML e CSS no frontend.
+Sou estudante de Engenharia de Software, atualmente estou estudando Java no backend e tecnologias web como HTML e CSS no frontend.
 </p>
 
 
