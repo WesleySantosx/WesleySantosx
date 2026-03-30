@@ -9,7 +9,7 @@
 <br>
 
 <p>
-Sou estudante de Engenharia de Software, atualmente estou estudando Java no backend e tecnologias web como HTML e CSS no frontend.
+Sou estudante de Engenharia de Software, estudei c++ anteriores e atualmente estou estudando Java no backend e tecnologias web como HTML e CSS no frontend.
 </p>
 
 
