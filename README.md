@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=600&height=70&lines=Software+Engineering+Student" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=50&section=header&fontColor=39ff14&fontSize=8&fontAlignY=45&desc=Software%20Engineering%20Student&descColor=8b949e&descSize=16&descAlignY=70" width="100%"/>
 </div>
 
 <p align="center">
