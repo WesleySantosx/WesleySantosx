@@ -1,43 +1,54 @@
-## </&> Wesley Santos
-
-<br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1200&color=e6edf3&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+profile...;%3E+Software+Engineering+Student;%3E+Welcome+to+my+GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=100000&repeat=false&color=39FF14&center=true&vCenter=true&width=600&height=70&lines=Software+Engineering+Student" />
 </div>
 
-<br/>
-<br>
-
-<p>
-Sou estudante de Engenharia de Software, estudei o básico do c++ anteriormente, atualmente estou estudando Java no backend e tecnologias web como HTML e CSS no frontend.
+<p align="center">
+  Estudante de Engenharia de Software, aprendendo desenvolvimento backend com PHP e Laravel. Estudo segurança ofensiva por conta própria, com o objetivo de atuar em Red Team.
 </p>
 
-
-<p align="left">
-
+<p align="center">
   <a href="https://www.linkedin.com/in/wesley-santos-904622351/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14"/>
   </a>
-
   <a href="https://www.instagram.com/wexley.ngx/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39ff14"/>
   </a>
-
 </p>
 
 ---
 
-###  Linguagens e Tecnologias
+```bash
+$ whoami
+wesley
 
-<img align="left" alt="C++" title="C++" width="30px" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+$ cat foco.txt
+backend (PHP + Laravel)
+segurança ofensiva
 
-<img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+$ cat objetivo.txt
+Red Team
+```
 
-<img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+---
 
-<img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1500&pause=100000&repeat=false&color=39FF14&vCenter=true&width=400&height=40&lines=%3E+stack" />
 
-<img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=39ff14"/>
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=39ff14"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=39ff14"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=39ff14"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=39ff14"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39ff14"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39ff14"/>
+</p>
 
-<br/><br/>
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1500&pause=100000&repeat=false&color=39FF14&vCenter=true&width=400&height=40&lines=%3E+github+stats" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WesleySantosx&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer" width="100%"/>
